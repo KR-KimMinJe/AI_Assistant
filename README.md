@@ -45,6 +45,6 @@
 * 다양한 각도, 자세에서도 동일한 Segmentation 성능이 유지되어야 한다.
 
 
-# Ⅶ. 구현영상
+# Ⅶ. 구현 동영상
 *  Link = https://youtu.be/dMjOFrg5LDc
 
