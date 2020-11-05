@@ -46,5 +46,5 @@
 
 
 # Ⅶ. 구현 동영상
-*  Link = https://youtu.be/dMjOFrg5LDc
+*  Youtube Link = https://youtu.be/dMjOFrg5LDc
 
